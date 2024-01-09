@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript and AI with Python on edX**
 
-- 📫 How to reach me **aziza.ergasheva50@gmail.com**
+- 📫 How to reach me: Email me at **aziza.ergasheva50@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
