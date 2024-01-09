@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aziza Ergasheva</h1>
 <h3 align="center">I'm passionate about using technology to improve quality of life, specifically in areas of medicine and environment.</h3>
 
-- 🔭 I’m currently working on **Duckietown course on edX**
+- 🔭 I’m currently working on **Duckietown course through edX**
 
 - 🌱 I’m currently learning **Javascript and AI with Python on edX**
 
